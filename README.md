@@ -18,7 +18,7 @@ All details including:
 - 🎥 Video demonstration
 
 Can be found here:  
-👉 [Heart Rate Monitoring System Using Arduino.pdf](./Mayar%20Waleed%20Nawas%20120220147%20Heart%20Rate%20Monitoring%20System%20Using%20Arduino.pdf)
+👉 [Heart Rate Monitoring System Using Arduino.pdf](https://github.com/myarnwas/project-in-healthcare-using-Arduino/blob/main/Mayar%20Waleed%20Nawas%20%20%20120220147%20%20%20Heart%20Rate%20Monitoring%20System%20Using%20Arduino.pdf)
 
 ---
 
